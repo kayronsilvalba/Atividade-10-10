@@ -1,0 +1,9 @@
+public class Questão3{
+    public static void main(){
+        int numero= 1;
+        while(numero <= 50){
+            System.out.println(numero);
+            numero++;
+        } 
+    } 
+}     
